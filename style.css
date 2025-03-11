@@ -3,13 +3,16 @@
 }
 
 th,td {
-    padding: 8px;
+    padding: 10px;
     text-align: left;
     border-bottom: 1px solid #ddd;
+    background-color: rgb(174, 169, 169);
 }
 .pesquisa{
-   padding: 200px;
-    border-color: gray;
-    text-align: center;
+   padding: 100px;  
 }
+.navbar{
+background-color: gray;
 
+
+}
